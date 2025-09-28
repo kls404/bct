@@ -1028,8 +1028,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                 </div>
                                             <div class="item-preview__actions">
                                                 <div class="n-columns-2">
-                                                    <a href="<?php echo $ampnya;?>" rel="nofollow noreferrer" class="login">LOGIN</a>
-                                                    <a href="<?php echo $ampnya;?>" rel="nofollow noreferrer" class="register">DAFTAR</a>
+
                                                 </div>
                             </div>
 
@@ -1918,6 +1917,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
