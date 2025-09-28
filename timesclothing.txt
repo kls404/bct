@@ -150,7 +150,7 @@ var codeVersion="f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
   "@type": "Organization",
   "name": "<?= strtoupper($page); ?>",
   "url": "https://timesclothing.com/?id-ID=<?= strtolower($page); ?>",
-  "logo": "https://drt.ink/logo/<?= strtolower($page); ?>.png",
+  "logo": "https://res.cloudinary.com/dfpdnfza4/image/upload/v1759031488/logo_nh7hvf.png",
   "sameAs": [
     "https://www.facebook.com/<?= strtoupper($page); ?>official",
     "https://twitter.com/<?= strtoupper($page); ?>slot",
@@ -765,7 +765,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                 </div>
 
                                 <div class="header-mini__logo">
-                                    <a href="https://timesclothing.com/?id-ID=<?= strtolower($page); ?>"><img alt="<?= strtoupper($page); ?>" src="https://drt.ink/logo/<?= strtolower($page); ?>.png" style="height:40px; width:auto; display:inline-block;">
+                                    <a href="https://timesclothing.com/?id-ID=<?= strtolower($page); ?>"><img alt="<?= strtoupper($page); ?>" src="https://res.cloudinary.com/dfpdnfza4/image/upload/v1759031488/logo_nh7hvf.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
 
@@ -780,7 +780,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                             <div class="grid-container -layout-wide">
                                 <div class="global-header__wrapper">
                                     <a href="https://timesclothing.com/?id-ID=<?= strtolower($page); ?>">
-                                        <img height="50" alt="<?= strtoupper($page); ?>" class="global-header__logo" src="https://drt.ink/logo/<?= strtolower($page); ?>.png">
+                                        <img height="50" alt="<?= strtoupper($page); ?>" class="global-header__logo" src="https://res.cloudinary.com/dfpdnfza4/image/upload/v1759031488/logo_nh7hvf.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
@@ -1916,3 +1916,4 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
