@@ -989,17 +989,40 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                         </h1>
                                     </div>
 
-                                    <div class="item-header__price is-hidden-desktop">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://timesclothing.com/?id-ID=<?= strtolower($page); ?>">
-                                            <span class="item-header__cart-button-icon">
-                                                <i class="e-icon -icon-cart -margin-right"></i>
-                                            </span>
-
-                                            <span class="t-heading -size-m -color-light -margin-none">
-                                                <b class="t-currency"><span class="js-item-header__price">$33</span></b>
-                                            </span>
+                                    <style>
+                                        .btn-daftar {
+                                          background-color: #c2185b; /* pink gelap */
+                                          color: #fff;
+                                          border-radius: 6px;
+                                          padding: 10px 24px;
+                                          text-decoration: none;
+                                          display: inline-block;
+                                          font-weight: bold;
+                                          font-size: 16px;
+                                          text-align: center;
+                                          box-shadow: 0 4px 10px rgba(255,105,180,0.6);
+                                          transition: all .3s ease;
+                                          text-shadow: 0 2px 6px rgba(255,182,193,0.9);
+                                          letter-spacing: 1px;
+                                        }
+                                      
+                                        .btn-daftar:hover {
+                                          background-color: #e91e63; /* pink lebih terang */
+                                          box-shadow: 0 6px 16px rgba(255,105,180,0.9), 0 0 12px rgba(255,182,193,1);
+                                          transform: translateY(-2px); /* sedikit naik biar ada feel klik */
+                                        }
+                                      </style>
+                                      
+                                      <div class="item-header__price is-hidden-desktop">
+                                        <a class="btn-daftar js-item-header__cart-button e-btn--3d -size-m" 
+                                           rel="nofollow" 
+                                           title="Add to Cart" 
+                                           data-view="modalAjax" 
+                                           href="https://timesclothing.com/?id-ID=<?= strtolower($page); ?>">
+                                          DAFTAR
                                         </a>
-                                    </div>
+                                      </div>
+                                      
                                 </div>
 
                                 <div class="item-header__details-section">
@@ -1071,33 +1094,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
 
                             <!-- Tablet or below Item Navigation -->
-                            <div class="page-tabs--dropdown" data-view="replaceItemNavsWithRemote" data-target=".js-remote">
-                                <div class="page-tabs--dropdown__slt-custom-wlabel">
-                                    <div class="slt-custom-wlabel--page-tabs--dropdown">
-                                        <label>
-                                            <span class="js-label">
-                                                Item Details
-                                            </span>
-                                            <span class="slt-custom-wlabel__arrow">
-                                                <i class="e-icon -icon-arrow-fill-down"></i>
-                                            </span>
-                                        </label>
 
-                                        <select class="js-remote">
-                                            <option selected="selected" data-url="/item/marketica-marketplace-wordpress-theme/8988002">Item
-                                                Details</option>
-                                            <option data-url="/item/marketica-marketplace-wordpress-theme/reviews/8988002">
-                                                Reviews (75)</option>
-                                            <option data-url="/item/marketica-marketplace-wordpress-theme/8988002/comments">
-                                                Comments (802)</option>
-                                            <option data-url="/item/marketica-marketplace-wordpress-theme/8988002/support">
-                                                Support</option>
-
-
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
 
                             <div class="page-tabs">
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
@@ -1917,10 +1914,3 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
-
-
-
-
-
-
-
