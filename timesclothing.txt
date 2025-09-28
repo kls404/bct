@@ -730,12 +730,6 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
         <div class="page__canvas">
             <div class="canvas">
                 <div class="canvas__header">
-<div class="item-preview__actions">
-                                                <div class="n-columns-2">
-                                                    <a href="https://amp.darat.pro/global/bola88" rel="nofollow noreferrer" class="login">LOGIN</a>
-                                                    <a href="https://amp.darat.pro/global/bola88" rel="nofollow noreferrer" class="register">DAFTAR</a>
-                                                </div>
-                                            </div>
                     <header class="site-header">
                         <div class="site-header__mini is-hidden-desktop">
                             <div class="header-mini">
@@ -1032,12 +1026,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                        
                                     </div>
                                 </div>
-                                <div class="item-preview__actions">
-                                    <div class="n-columns-2">
-                                        <a href="https://amp.darat.pro/global/bola88" rel="nofollow noreferrer" class="login">LOGIN</a>
-                                        <a href="https://amp.darat.pro/global/bola88" rel="nofollow noreferrer" class="register">DAFTAR</a>
-                                    </div>
-
+<br>
                             </div>
 
 
@@ -1925,6 +1914,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
