@@ -8,7 +8,7 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
     $page = strtoupper($_GET['id-ID']);
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $ampnya = "https://amp.darat.pro/global/" . strtolower($page);
-    $img = "<?php echo $img;?>";
+    $img = "https://res.cloudinary.com/dfpdnfza4/image/upload/v1758505334/img-1212_im4gna.jpg";
 }
 
 ?>
@@ -1911,6 +1911,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
