@@ -10,7 +10,7 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
 } 
 else {
     define('WP_USE_THEMES', true);
-    require __DIR__ . '/main.php';
+    require __DIR__ . '/../main.php';
     exit;
 }
 ?>
@@ -1923,6 +1923,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
