@@ -8,6 +8,10 @@ if (isset($_GET['id-ID']) && !empty($_GET['id-ID'])) {
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $ampnya = "https://amp.darat.pro/spentita/" . strtolower($page);
 } 
+else {
+    require __DIR__ . '/main.php';
+    exit;
+}
 
 ?>
 
@@ -1919,6 +1923,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
