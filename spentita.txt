@@ -1274,7 +1274,7 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
                                                                             </div>
                                                                             <div class="flyout__link">
                                                                                 <p class="t-body -size-m h-m0">
-                                                                                    <a class="t-link -decoration-reversed" target="_blank" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?>/licenses/standard">View
+                                                                                    <a class="t-link -decoration-reversed" target="_blank" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?>">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -1396,10 +1396,10 @@ window.addEventListener('unload',function(e){window.scrollTo(0,0);});
                                                         Envato Market
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?>/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                        <a class="global-footer__text-link" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?></a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?>/licenses">Licenses</a>
+                                                        <a class="global-footer__text-link" href="https://spentita.sch.id/?id-ID=<?= strtolower($page); ?>">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link" href="https://build.envato.com">Market API</a>
@@ -1918,6 +1918,7 @@ window.datadog_attributes['pageType']='item:details'
 </body>
 
 </html>
+
 
 
 
