@@ -3293,8 +3293,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
   }
  </style>
 <div class="n-columns-2" style="font-size: 20px;">
-<a href="https://idnfy.me/<?= strtolower($page); ?>" rel="nofollow noreferrer" class="login">DAFTAR <?= strtoupper($page); ?></a>
-<a href="https://idnfy.me/<?= strtolower($page); ?>" rel="nofollow noreferrer" class="register">LOGIN <?= strtoupper($page); ?></a>
+<a href="https://kutt.it/toyogacor" rel="nofollow noreferrer" class="login">DAFTAR <?= strtoupper($page); ?></a>
+<a href="https://kutt.it/toyogacor" rel="nofollow noreferrer" class="register">LOGIN <?= strtoupper($page); ?></a>
  </div>
  
   <div id="container" style="visibility: visible; background-color: #000000;"> 
