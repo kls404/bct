@@ -19,14 +19,14 @@ else {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title>SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</title>
+  <title>СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</title>
   <meta name="description" content="<?= strtoupper($page); ?> Temukan koleksi link slot game terbaru 2025 dengan winrate tertinggi yang telah teruji! Rasakan sensasi kemenangan maksimal dengan game-game <?= strtoupper($page); ?> paling gacor tahun ini." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="<?= strtoupper($page); ?>" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://smp-marko.ru/<?= strtolower($page); ?>" />
-  <meta name="og:title" content="SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi." />
+  <meta name="og:title" content="СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi." />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="<?= strtoupper($page); ?> Temukan koleksi link slot game terbaru 2025 dengan winrate tertinggi yang telah teruji! Rasakan sensasi kemenangan maksimal dengan game-game <?= strtoupper($page); ?> paling gacor tahun ini." />
   <meta name="og:image" content="https://res.cloudinary.com/dfpdnfza4/image/upload/v1758852136/sdrt_uyh2qz.jpg" />
@@ -99,7 +99,7 @@ else {
           },
   "author": {
             "@type": "Person",
-            "name": "SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
+            "name": "СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
             "reviewBody": "<?= strtoupper($page); ?> Temukan koleksi link slot game terbaru 2025 dengan winrate tertinggi yang telah teruji! Rasakan sensasi kemenangan maksimal dengan game-game <?= strtoupper($page); ?> paling gacor tahun ini."
           }
         },
@@ -135,7 +135,7 @@ else {
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "name": "SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
+    "name": "СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
     "url": "https://smp-marko.ru/<?= strtolower($page); ?>",
     "ratingValue": "5",
     "reviewCount": "222111444"
@@ -151,7 +151,7 @@ else {
         "returnMethod": "https://schema.org/ReturnByMail",
         "returnFees": "https://schema.org/FreeReturn"
         },
-    "name": "SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
+    "name": "СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.",
         "url": "https://smp-marko.ru/<?= strtolower($page); ?>",
         "itemCondition": "https://schema.org/NewCondition",
         "availability": "https://schema.org/InStock",
@@ -274,7 +274,7 @@ else {
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dfpdnfza4/image/upload/v1758852136/sdrt_uyh2qz.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
+    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://res.cloudinary.com/dfpdnfza4/image/upload/v1758852136/sdrt_uyh2qz.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -814,7 +814,7 @@ else {
           "position": 3,
           "item": {
             "@id": "https://smp-marko.ru/<?= strtolower($page); ?>",
-            "name": "SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."
+            "name": "СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."
           }
         }]
       }
@@ -911,7 +911,7 @@ else {
       <div style="background-color: #000000;" class="lzd-header-content">
         <div style="background-color: #000000;" class="lzd-logo-bar" >
           <div style="background-color: #000000;" class="logo-bar-content header-content" >
-              <div class="lzd-logo-content"><a href="https://smp-marko.ru/<?= strtolower($page); ?>" data-spm="dhome"><img src="https://drt.ink/logo/<?= strtolower($page); ?>.png" alt="SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."></a></div>
+              <div class="lzd-logo-content"><a href="https://smp-marko.ru/<?= strtolower($page); ?>" data-spm="dhome"><img src="https://cdn.sportjaya.me/img/logo.png" alt="СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -3212,7 +3212,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <li class="breadcrumb_item">
     <span class="breadcrumb_item_text"><a title="<?= strtoupper($page); ?> WAP" href="https://smp-marko.ru/<?= strtolower($page); ?>" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6"><?= strtoupper($page); ?> WAP</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item"><span class="breadcrumb_item_text">
-    <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</span></span></li></ul>
+    <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</span></span></li></ul>
     </div>
     <script>
       function htmlEncodePdp(input) {
@@ -3298,9 +3298,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
  </div>
  
   <div id="container" style="visibility: visible; background-color: #000000;"> 
-    <div style="background-color: #000000;" id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div style="background-color: #ffb9da;" id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi." src="https://res.cloudinary.com/dfpdnfza4/image/upload/v1758852136/sdrt_uyh2qz.jpg"/></div></div>
+    <div style="background-color: #000000;" id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div style="background-color: #ffb9da;" id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi." src="https://res.cloudinary.com/dfpdnfza4/image/upload/v1758852136/sdrt_uyh2qz.jpg"/></div></div>
   <a href="<?php echo $ampnya;?>" rel="nofollow noopener" target="_blank"><img src="daftarslothitam-n9srnp.gif" width="100%" height="auto" alt=""></a>
-  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">Ratings ⭐⭐⭐⭐⭐</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
+  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi.</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">Ratings ⭐⭐⭐⭐⭐</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
   <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://smp-marko.ru/<?= strtolower($page); ?>"><?= strtoupper($page); ?></a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>Bergabunglah dengan <?= strtoupper($page); ?>, situs slot online terbaik di Indonesia, dan temukan pengalaman bermain yang tak terlupakan! Di <a href="https://smp-marko.ru/<?= strtolower($page); ?>"><?= strtoupper($page); ?></a>, Anda dapat menikmati berbagai pilihan permainan slot yang menarik dan seru, dari slot klasik hingga jackpot progresif yang menggiurkan. Dengan bonus besar yang ditawarkan, peluang menang Anda semakin tinggi, memberikan Anda kesempatan untuk meraih kemenangan besar. Selain itu, Surgaslot menjamin pengalaman bermain yang aman dan terpercaya, sehingga Anda dapat fokus sepenuhnya pada kesenangan dan strategi permainan. Daftar sekarang dan rasakan sensasi bermain yang menyenangkan di <?= strtoupper($page); ?>!</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">IDR No Limit -</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">IDR 100.000,-</span><span class="pdp-product-price__discount">10.000,-</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="<?php echo $ampnya;?>"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">DAFTAR <?= strtoupper($page); ?></span></button></a><a href="<?php echo $ampnya;?>" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">LOGIN <?= strtoupper($page); ?></span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div style="background-color: #ffb9da;" class="seller-container" data-spm="seller"><div style="background-color: #ffb9da;" class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Edit By : SDRT</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div style="background-color: #ffb9da;" class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
@@ -3922,7 +3922,7 @@ window.onload = function() {
   }
 </script>
 <footer class="sections" id="footer-sections" data-footer-sections>
-<small class="copyright__content"><a href="https://smp-marko.ru/<?= strtolower($page); ?>" title="SPENTITA Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."><center>© 2025 HAK CIPTA | <?= strtoupper($page); ?></center></a></small>
+<small class="copyright__content"><a href="https://smp-marko.ru/<?= strtolower($page); ?>" title="СМП Марко Menghadirkan Slot Game <?= strtoupper($page); ?> dengan winrate tinggi."><center>© 2025 HAK CIPTA | <?= strtoupper($page); ?></center></a></small>
 </footer>
 </body>
 </html>
